@@ -6,7 +6,7 @@
 - 👋 Hi again, you can check out my personal business site - Quriousman: Curiosity is all you need to solve real-world challenges.(Sorry for the inconvenience, but all content is in Thai since we serve all Thai clients.) [Website][quriousman-website] | [LinkedIn][quriousman-linkedin]
 - 👀 I’m interested in learning everything especially any solution that can bring better world for everyone. 🤣
 - 🥅 My 2022 Goals is to learn more about web3 e.g. Solidity, Rust and other language related to blockchain development.
-- ⚡ I’m currently developing decentralized insurance and hoping we can create community-owned products that can change the paradigm of financial services. (Covest Finance - Open-source P2P Insurance) [Website][covestfinance-website] | [LinkedIn][covestfinance-linkedin] | [documentation][covestfinance-docs]
+- ⚡ I’m currently developing decentralized insurance and hoping we can create the future of tomorrow’s insurance through innovative, blockchain-based products and protocols. (Covest Finance - Reinventing Insurance Ecosystem) [Website][covestfinance-website] | [LinkedIn][covestfinance-linkedin] | [documentation][covestfinance-docs]
 
 ### Languages and Tools:
 
