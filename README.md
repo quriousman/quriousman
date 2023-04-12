@@ -18,7 +18,7 @@
 <img align="left" alt="Nextjs" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" style="padding-right:10px;" />
 <img align="left" alt="Node.js" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Firebase" height="26px" src="https://www.gstatic.com/devrel-devsite/prod/vb4b5f40392bd9ba34d31c8578d2b4bd0a5bd852eabd9554190f5a24f31b598a8/firebase/images/lockup.svg" style="padding-right:10px;" />
+<img align="left" alt="Firebase" height="26px" src="https://www.gstatic.com/devrel-devsite/prod/v5a7f8588f740a732b99bbbc11dd3fcc15ccd2649b8589058a80b1dfa1c77d69f/firebase/images/lockup.svg" />
 <img align="left" alt="Wordpress" height="26px" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" style="padding-right:10px;" />
 <img align="left" alt="Figma" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
