@@ -20,7 +20,7 @@
 <img align="left" alt="MySQL" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Firebase" height="26px" src="https://www.gstatic.com/devrel-devsite/prod/v5a7f8588f740a732b99bbbc11dd3fcc15ccd2649b8589058a80b1dfa1c77d69f/firebase/images/lockup.svg" style="padding-right:10px;"/>
 <img align="left" alt="Wordpress" height="26px" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" style="padding-right:10px;" />
-<img align="left" alt="PHP" height="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPHP&psig=AOvVaw0r_BEUS8ZWktcMURIlRGQE&ust=1681374490737000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDDhJ32o_4CFQAAAAAdAAAAABAE" style="padding-right:10px;" />
+<img align="left" alt="PHP" height="26px" src="https://www.php.net/images/logos/php-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Solidity" height="26px" src="https://miro.medium.com/max/1400/0*4G3cO7glx5jvIk7g" style="padding-right:10px;" />
