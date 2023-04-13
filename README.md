@@ -10,23 +10,23 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Nextjs" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Node.js" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Firebase" height="26px" src="https://www.gstatic.com/devrel-devsite/prod/v5a7f8588f740a732b99bbbc11dd3fcc15ccd2649b8589058a80b1dfa1c77d69f/firebase/images/lockup.svg" style="padding-right:10px;"/>
-<img align="left" alt="Wordpress" height="26px" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" style="padding-right:10px;" />
-<img align="left" alt="PHP" height="26px" src="https://cdn.cdnlogo.com/logos/p/71/php.svg" style="padding-right:10px;" />
-<img align="left" alt="Figma" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Solidity" height="26px" src="https://miro.medium.com/max/1400/0*4G3cO7glx5jvIk7g" style="padding-right:10px;" />
-<img align="left" alt="Python" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Docker" height="26px" src="https://img.techentice.com/media/2020/06/docker.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" height="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:10px;" />
+<img align="left" alt="HTML5" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:10px;" />
+<img align="left" alt="CSS3" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:10px;" />
+<img align="left" alt="JavaScript" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:10px;" />
+<img align="left" alt="React" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding:10px;" />
+<img align="left" alt="Nextjs" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" style="padding:10px;" />
+<img align="left" alt="Node.js" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding:10px;" />
+<img align="left" alt="MySQL" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding:10px;" />
+<img align="left" alt="Firebase" height="26px" src="https://www.gstatic.com/devrel-devsite/prod/v5a7f8588f740a732b99bbbc11dd3fcc15ccd2649b8589058a80b1dfa1c77d69f/firebase/images/lockup.svg" style="padding:10px;"/>
+<img align="left" alt="Wordpress" height="26px" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" style="padding:10px;" />
+<img align="left" alt="PHP" height="26px" src="https://cdn.cdnlogo.com/logos/p/71/php.svg" style="padding:10px;" />
+<img align="left" alt="Figma" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" style="padding:10px;" />
+<img align="left" alt="MongoDB" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding:10px;" />
+<img align="left" alt="Solidity" height="26px" src="https://miro.medium.com/max/1400/0*4G3cO7glx5jvIk7g" style="padding:10px;" />
+<img align="left" alt="Python" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" style="padding:10px;" />
+<img align="left" alt="Docker" height="26px" src="https://img.techentice.com/media/2020/06/docker.png" style="padding:10px;" />
+<img align="left" alt="GitHub" height="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding:10px;" />
 
 
 
